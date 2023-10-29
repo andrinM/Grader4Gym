@@ -5,7 +5,7 @@ Gerne könnt ihr die Issue-Funktion verwenden, um uns Rückmeldung zu geben.
 Wir haben bereits einige Issues erstellt, welche wir am letzten Montag besprochen haben.
 
 *Link zur Admin-Seite:*
-https://admin.grader4gym.inf.unibe.ch/
+https://admin.grader4gym.inf.unibe.ch/ <br>
 *Link zur Schüler-Seite:*
 https://grader4gym.inf.unibe.ch/
 
