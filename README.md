@@ -9,7 +9,7 @@ https://admin.grader4gym.inf.unibe.ch/ <br>
 *Link zur Schüler-Seite:*
 https://grader4gym.inf.unibe.ch/
 
-[here](Grader4Gym/Manuels/Grader4Gym/Anleitung_Admin.pdf)
+[here](Grader4Gym/Manuels/Grader4Gym/Grader4Gym_Anleitung_Admin.pdf)
 [here](Grader4Gym/Manuels/Grader4Gym/Grader4Gym_Anleitung_User.pdf)
 Wir empfehlen euch, die Anleitungen Grader4Gym_Anleitung_Admin.pdf und Grader4Gym_Anleitung_User.pdf einmal durchzuspielen.
 
