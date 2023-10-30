@@ -10,7 +10,7 @@ https://admin.grader4gym.inf.unibe.ch/ <br>
 https://grader4gym.inf.unibe.ch/
 
 
-Wir empfehlen euch, die [Anleitung Admin](Manuels/Grader4Gym_Anleitung_Admin.pdf) sowie die [Anleitung User] einmal durchzuspielen.
+Wir empfehlen euch, die [Anleitung Admin](Manuels/Grader4Gym_Anleitung_Admin.pdf) sowie die [Anleitung User](Manuels/Grader4Gym_User_Anleitung.pdf) einmal durchzuspielen.
 
 Bei Fragen könnt ihr uns auch jederzeit direkt schreiben:
 david.richard@students.unibe.ch
